@@ -36,21 +36,5 @@
 <a href="https://www.youtube.com/@erikskopp" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-
-<br/>
-<br/>
-
-<div style="text-align: center;">
 <img src="https://komarev.com/ghpvc/?username=eskopp&&style=flat-square" align="center" />
-<!--
-<a href="https://paypal.me/eskopp" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-        align="center"
-    />
-</a>
--->            
-</div>
-<br />
+</div>  

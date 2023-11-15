@@ -16,25 +16,3 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 <br/>
-
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/eskopp" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/erikskopp" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/eskopp98" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<!---
-<a href="https://stackoverflow.com/users/19094271/eskopp" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> 
---->
-<a href="https://www.youtube.com/@erikskopp" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-<img src="https://komarev.com/ghpvc/?username=eskopp&&style=flat-square" align="center" />
-</div>  

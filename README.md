@@ -1,18 +1,47 @@
-<p align="center">
-<img src="http://readme-typing-svg.herokuapp.com/?size=30&color=ABE9B3&center=true&vCenter=true&lines=>%20ESkopp" />
- </p>
+<div align="center">
 
-<p align="left"><b><samp>「</samp></b></p>
-<p align='center'>
-<samp>
-   If you can’t do something, then don’t. Focus on what you can do. <br>
-  </samp>
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/erikskopp) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erik-skopp) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:skopp.erik@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
+
+
+
+
+<div align="center">
+
+
+
+## 💻 My Tech Stack:
+
+### Languages
+[![java python cpp latex mysql php](https://skillicons.dev/icons?i=java,python,cpp,latex,mysql,php)](https://skillicons.dev)
+
+
+### Tools 
+[![](https://skillicons.dev/icons?i=matlab,azure,bash,git,github,vscode)](https://skillicons.dev)
+
+### Learning
+[![Go, Rust](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
+
+
+
+## 🏆 My Stats:
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eskopp&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskopp&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-<p align="right"><b><samp>」</samp></b></p>
-<br>
 
-- 🌱 I’m currently learning Neural Networks and Graphs
-- ❓ Ask me about anything related technologies
-- ⚡ Fun fact: I use tabs over spaces
 
-<br/>
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+</div>

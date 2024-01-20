@@ -1,40 +1,40 @@
 <div align="center">
 
+## Contact me:
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/erikskopp) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erik-skopp) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:skopp.erik@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
-</div>
-
-
-
-
 <div align="center">
-
-
+<br><br>
 
 ## 💻 My Tech Stack:
 
 ### Languages
+
 [![java python cpp latex mysql php](https://skillicons.dev/icons?i=java,python,cpp,latex,mysql,php)](https://skillicons.dev)
 
+### Tools
 
-### Tools 
 [![](https://skillicons.dev/icons?i=matlab,azure,bash,git,github,vscode)](https://skillicons.dev)
 
 ### Learning
+
 [![Go, Rust](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
 
+## 🏆 Test
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 🏆 My Stats:
+
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eskopp&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <br><br>
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskopp&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-
-
 
 ## 🎮 When I'm AFK:
 

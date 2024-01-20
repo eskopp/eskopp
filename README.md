@@ -7,7 +7,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:skopp.erik@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 <div align="center">
-<br><br>
+<br>
 
 ## 💻 My Tech Stack:
 
@@ -22,11 +22,6 @@
 ### Learning
 
 [![Go, Rust](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
-
-## 🏆 Test
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 ## 🏆 My Stats:
 

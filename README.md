@@ -23,6 +23,12 @@
 
 [![Go, Rust](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
 
+## Overview
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 🏆 My Stats:
 
 <p>

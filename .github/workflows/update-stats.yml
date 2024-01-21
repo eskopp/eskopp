@@ -4,32 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: "en" # Sprache (Standard: Englisch)
-          SECTION_NAME: "Coding Stats" # Name des Abschnitts
-          COMMIT_BY_ME: "True" # Commit mit Ihrem Namen und E-Mail
-          COMMIT_MESSAGE: "Updated with Dev Metrics" # Commit-Nachricht
-          COMMIT_USERNAME: "readme-bot" # Benutzername für den Commit
-          SHOW_UPDATED_DATE: "True" # Aktualisierungsdatum anzeigen
-          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S" # Format des Aktualisierungsdatums
-          SHOW_LINES_OF_CODE: "True" # Zeilen des Codes anzeigen
-          SHOW_TOTAL_CODE_TIME: "True" # Gesamtcodezeit anzeigen
-          SHOW_PROFILE_VIEWS: "True" # Profilansichten anzeigen
-          SHOW_COMMIT: "True" # Commit-Statistiken anzeigen
-          SHOW_PROJECTS: "True" # Projekte anzeigen
-          SHOW_LOC_CHART: "True" # LOC-Diagramm anzeigen
-          SHOW_LANGUAGE_PER_REPO: "True" # Sprachverteilung pro Repository anzeigen
-          SHOW_SHORT_INFO: "True" # Kurze Info anzeigen
-          SHOW_LANGUAGE_DETAILS: "True" # Detaillierte Sprachstatistiken anzeigen
-          SHOW_EDITORS: "True" # Benutzte Editoren anzeigen
-          SHOW_OS: "True" # Betriebssysteme anzeigen
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
+          LOCALE: "en"

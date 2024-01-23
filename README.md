@@ -37,7 +37,7 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskopp&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-## 🎮 When I'm AFK:
+## 🎮 When I'm AFK: 
 
 ![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 01:00 CET (00:00 UTC) during Winter
-    - cron: "30 2 * * *"
+    - cron: "19 19 * * *"
 
 jobs:
   update-readme:

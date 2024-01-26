@@ -4,7 +4,7 @@
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/erikskopp) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erik-skopp) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:skopp.erik@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:skopp.erik@gmail.com)
 
 <div align="center">
 <br>
@@ -26,82 +26,11 @@
 ## Overview
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-496.1%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 31.8 kB Used in GitHub's Storage 
- > 
-> 🏆 124 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-🌆 Daytime                142 commits         ███████████░░░░░░░░░░░░░░   43.29 % 
-🌃 Evening                129 commits         ██████████░░░░░░░░░░░░░░░   39.33 % 
-🌙 Night                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   87 commits          ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Tuesday                  87 commits          ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Wednesday                62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Thursday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Saturday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Go                       2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
-YAML                     1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.01 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-
-🔥 Editors: 
-GoLand                   3 hrs 1 min         █████████████░░░░░░░░░░░░   53.14 % 
-VS Code                  2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
-Rustrover                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-
-💻 Operating System: 
-Windows                  5 hrs 40 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-```
-
-
-
-
- Last Updated on 26/01/2024 12:17:29 UTC
 <!--END_SECTION:waka-->
 
+
+
+<!--
 ## 🏆 My Stats:
 
 <p>
@@ -109,7 +38,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
     <br><br>
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskopp&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-
+-->
 ## 🎮 When I'm AFK: 
 
 ![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;

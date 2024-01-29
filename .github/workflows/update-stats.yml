@@ -18,3 +18,4 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
+          OUTPUT_FILE: 'Waka.md'

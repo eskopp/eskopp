@@ -43,10 +43,14 @@
 
 ## Waka Stats
 
-You can view all stats here: here: [Waka-Stats](./Waka.md)
+You can view all stats here: [Waka-Stats](./Waka.md)
 
 
 <center>
 <img src="kyubey.gif" alt="Alt-Text" title="" >
 </center>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

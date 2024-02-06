@@ -132,9 +132,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/eskopp/eskopp/main/assets/bar_graph.png)
-
-
  Last Updated on 06/02/2024 15:10:49 UTC
 <!--END_SECTION:waka-->
 

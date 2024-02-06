@@ -12,13 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check if pusher is not 'github-actions[bot]'
-        run: |
-          if [ "$GITHUB_ACTOR" == "github-actions[bot]" ]; then
-            echo "Pusher is 'github-actions[bot]', exiting."
-            exit 0
-          fi
-
       - name: Checkout Repository
         uses: actions/checkout@v2
 
@@ -29,5 +22,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           LOCALE: "en"

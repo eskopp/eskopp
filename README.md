@@ -41,13 +41,16 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-## Waka Stats
-
-You can view all stats here: [Waka-Stats](./Waka.md)
 
 
 <center>
 <img src="kyubey.gif" alt="Alt-Text" title="" >
+
+
+## Waka Stats
+
+<!-- You can view all stats here: [Waka-Stats](./Waka.md)--> 
+  Until the [Issue #489](https://github.com/anmol098/waka-readme-stats/issues/499) is solved, Waka is displayed here 
 
 
 

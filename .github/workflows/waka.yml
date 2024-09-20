@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: ErikSkopp/.github
+          REPOSITORY: eskopp/eskopp
           SHOW_TITLE: true
           SECTION_NAME: waka
           TIME_RANGE: all_time

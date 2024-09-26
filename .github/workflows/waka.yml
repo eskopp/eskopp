@@ -1,6 +1,7 @@
 name: Waka Time
  
 on:
+  push:
   workflow_dispatch:
   schedule:
     - cron: "30 1 * * *"

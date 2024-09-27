@@ -5,8 +5,7 @@
 ## Contact me:
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/erikskopp) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erik-skopp) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:skopp.erik+github@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erik-skopp) 
 
 <div align="center">
 <br>

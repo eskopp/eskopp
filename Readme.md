@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 05 November 2024
+From: 19 January 2024 - To: 06 November 2024
 
-Total Time: 231 hrs 34 mins
+Total Time: 232 hrs 44 mins
 
-Markdown           57 hrs 23 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-Other              31 hrs 46 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+Markdown           57 hrs 23 mins  ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+Other              31 hrs 54 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
 ```
 
 <!--END_SECTION:waka-->

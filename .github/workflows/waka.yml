@@ -29,3 +29,9 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
           TARGET_PATH: Readme.md
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PLATFORMS: true
+          SHOW_IDE: true
+          SHOW_CATEGORIES: true

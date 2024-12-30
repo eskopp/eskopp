@@ -18,9 +18,8 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           TIME_RANGE: all_time
-          LANG_COUNT: 100
-          SHOW_TIME: true
           LANG_COUNT: 7
+          SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics

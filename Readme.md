@@ -1,12 +1,4 @@
 
-
-<div align="center">
-
-## Contact me:
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/erikskopp) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/erik-skopp) 
-
 <div align="center">
 <br>
 

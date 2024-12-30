@@ -30,12 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 29 December 2024
-
-Total Time: 270 hrs 59 mins
-
-Markdown           76 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Other              35 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Markdown     2 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.94 %
+YAML         1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
+Bash         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Other        40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Python       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 ```
 
 <!--END_SECTION:waka-->

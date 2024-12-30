@@ -27,4 +27,5 @@ jobs:
           TARGET_PATH: Readme.md
           BLOCKS: ->
           CODE_LANG: rust
+          IGNORED_LANGUAGES: CSV Nix Riff INI ML OpenEdge go.mod  Script Apache Config Requirements.txt TypeScript Image (svg) reStructuredText Objective-C  OpenEdge ABL XML Batch INI textmate Roff Nix CSV
 

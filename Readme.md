@@ -29,13 +29,13 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 19 January 2024 - To: 29 December 2024
 
 Total Time: 270 hrs 59 mins
 
-Markdown           76 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Other              35 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Markdown           76 hrs 16 mins  >>>>>>>------------------   28.14 %
+Other              35 hrs 2 mins   >>>----------------------   12.93 %
 ```
 
 <!--END_SECTION:waka-->

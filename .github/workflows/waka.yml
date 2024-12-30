@@ -1,5 +1,5 @@
 name: Waka Time
- 
+
 on:
   push:
   workflow_dispatch:

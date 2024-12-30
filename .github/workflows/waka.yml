@@ -1,37 +1,17 @@
-name: Waka Time
+name: Waka Readme
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "30 1 * * *"
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master 
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: eskopp/eskopp
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          TIME_RANGE: all_time
-          LANG_COUNT: 100
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: Readme.md
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_PLATFORMS: true
-          SHOW_IDE: true
-          SHOW_CATEGORIES: true

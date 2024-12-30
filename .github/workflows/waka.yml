@@ -4,7 +4,6 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -16,3 +15,25 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: all_time
+          LANG_COUNT: 100
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: Readme.md
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PLATFORMS: true
+          SHOW_IDE: true
+          SHOW_CATEGORIES: true
+          SHOW_ACTIVITY: true
+          SHOW_COMMITS: true
+          SHOW_REPOS: true
+          SHOW_LANGUAGES: true

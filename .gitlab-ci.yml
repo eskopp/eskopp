@@ -1,0 +1,5 @@
+runner-test:
+  script:
+    - apt-get update -qq
+    - apt-get install -y -qq cowsay
+    - /usr/games/cowsay "GitLab Runner laeuft"
